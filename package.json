@@ -1,6 +1,6 @@
 {
-  "name": "cli-number-guessing",
-  "version": "1.0.0",
+  "name": "m2-cli-number-guessing",
+  "version": "1.0.1",
   "description": "",
   "type": "module",
   "main": "index.js",
